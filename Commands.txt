@@ -1,0 +1,34 @@
+Run in the same terminal directory as your program files.
+
+1)
+Setting an environmental variable for the file you want to run:
+set FLASK_APP=[FILE_NAME].py
+
+2)
+Running Flask:
+flask run
+
+3)
+For making changes in code and seeing them directly reflected in the webpage, you need to turn on Debug mode:
+set FLASK_DEBUG=1
+
+4)
+Bootstrap starter template.
+
+5)
+from market import app, db
+app.app_context().push()
+
+6)
+u1 = User(username='dfg', password_hash='dfnc', email_address='fdsfg@gmail.com')
+db.session.add(u1)
+db.session.commit()
+User.query.all()
+
+
+7)
+For clearing screen while in python terminal, import os, then run os.system('cls')
+
+8) For Secret Key value
+import os
+os.urandom(12).hex()
