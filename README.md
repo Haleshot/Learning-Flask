@@ -29,4 +29,9 @@ git clone <repository-url>
 ```shell
 cd flask-tutorial
 ```
+3. Open the tutorial videos in the provided YouTube link and follow along with the instructor's explanations and code demonstrations.
+
+4. As you progress through the tutorial, you can use this repository to refer to the code examples provided by the instructor. The repository includes separate directories or files for each tutorial video, making it easy to locate and review the code discussed in each lesson.
+
+5. Feel free to modify and experiment with the code examples to deepen your understanding of Flask
 
