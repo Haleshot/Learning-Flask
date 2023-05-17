@@ -35,3 +35,12 @@ cd flask-tutorial
 
 5. Feel free to modify and experiment with the code examples to deepen your understanding of Flask
 
+## Additional Resources
+- FreeCodeCamp website: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+- Flask official documentation: [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
+- Python official documentation: [https://docs.python.org/](https://docs.python.org/)
+
+## Contribution
+If you find any errors or have suggestions for improvements, please feel free to submit an issue or pull request to this repository.
+
+Happy learning!
