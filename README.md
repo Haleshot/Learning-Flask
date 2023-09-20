@@ -23,7 +23,7 @@ To make the most of this tutorial series, it is recommended to have a basic unde
 ## How to Use This Repository
 1. Clone the repository to your local machine using the following command:
 ```shell
-git clone <repository-url>
+git clone Learning-Flask
 ```
 2. Once cloned, navigate to the project directory:
 ```shell
