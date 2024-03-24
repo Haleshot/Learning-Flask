@@ -42,5 +42,3 @@ cd flask-tutorial
 
 ## Contribution
 If you find any errors or have suggestions for improvements, please feel free to submit an issue or pull request to this repository.
-
-Happy learning!
