@@ -27,7 +27,7 @@ git clone https://github.com/Haleshot/Learning-Flask.git
 ```
 2. Once cloned, navigate to the project directory:
 ```shell
-cd flask-tutorial
+cd Learning-Flask
 ```
 3. Open the tutorial videos in the provided YouTube link and follow along with the instructor's explanations and code demonstrations.
 
